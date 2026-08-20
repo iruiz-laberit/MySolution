@@ -4,5 +4,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "artefact": "bcartifacts/sandbox/22.0.54157.55210/us/closest"
+  "artefact": "bcartifacts/sandbox/22.0.54157.55210/us/closest",
+  "repoVersion": "1.1"
 }
